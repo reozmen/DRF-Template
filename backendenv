@@ -1,0 +1,9 @@
+SECRET_KEY=django-insecure-$3&5lvm-n%juqa^x40zf(8-dmi_2s@&+w7b2)cms#bv_h(!^l$
+DEBUG = True
+SQL_DATABASE=flightDB
+SQL_USER=postgres
+SQL_PASSWORD=postgres
+SQL_HOST=localhost
+SQL_PORT=5432
+ENV_NAME=prod
+DJANGO_LOG_LEVEL=INFO
